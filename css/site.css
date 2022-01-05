@@ -1,0 +1,27 @@
+.heroImage{
+    max-width: 200px;
+
+}
+.oddRow{
+    background-color: azure;
+}
+.evenRow{
+    background-color: antiquewhite;
+}
+section{
+    padding: 2em;
+    margin-bottom: 2em;
+}
+.heroText{
+    font-family: "Bangers", cursive;
+    font-size: 4em;
+    margin:0pt;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 2px 1px darkgray;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
+.heroPic {
+    max-width: 200px;
+}
